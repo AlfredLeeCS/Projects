@@ -7,4 +7,4 @@ If there is any error opening the .ipynb file, kindly to proceed to open with th
 
 https://nbviewer.jupyter.org/github/AlfredLeeCS/Projects/blob/master/Tennis%20Ball%20Classification/Tennis_Ball_Classification_using_MobileNet_1_0.ipynb
 
-Thanks and have a nice day!
+Have a nice day!
