@@ -1,4 +1,4 @@
-## Deep Learning : Predict Bike Sharing Pattern
+## DEEP LEARNING : PREDICTING BIKE SHARING PATTERN
 
 The data source is from UCI Machine Learning Repository : https://archive.ics.uci.edu/ml/datasets/Bike+Sharing+Dataset
 
