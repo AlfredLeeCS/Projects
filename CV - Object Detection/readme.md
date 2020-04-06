@@ -1,6 +1,6 @@
 ## Computer Vision : Person Tracker Detector
 
-Project Objective : To build an object detector for the detection of person figure in the images path.
+Project Objective : To build an object detector for the detection of person figure in the images.
 
 
 --------------------------------------------------------------------------------------
