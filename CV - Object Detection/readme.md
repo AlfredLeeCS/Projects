@@ -1,6 +1,6 @@
 ## OBJECT DETECTION - PERSON TRACKER 
 
-Project Objective : To build an object detector to detect person figure in any image path provided.
+Project Objective : To build an object detector to detect all person figure in the images.
 
 
 --------------------------------------------------------------------------------------
