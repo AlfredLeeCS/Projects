@@ -1,7 +1,5 @@
 ## Pump it Up: Data Mining the Water Table
 
-Initial commit...
-
 This is competition hosted by Data Driven. The objective is to predict which water pumps are functional, which need some repairs, and which don't work at all, a multiclass classifcation problem. The model produced managed to get 81.06% accuracy on test data, currently on top 14% of the leaderboard.
 
 
